@@ -1,0 +1,524 @@
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994156.156142, "source_ts": 1760994136.2664344, "detections": [], "counts": {}, "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank", "prediction_score": 0.9946, "frame_id": 4, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994156.156142,
+  "source_ts": 1760994136.2664344,
+  "detections": [],
+  "counts": {},
+  "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+  "prediction_score": 0.9946,
+  "frame_id": 4,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994175.3006852, "source_ts": 1760994159.833101, "detections": [], "counts": {}, "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank", "prediction_score": 0.95, "frame_id": 711, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994175.3006852,
+  "source_ts": 1760994159.833101,
+  "detections": [],
+  "counts": {},
+  "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+  "prediction_score": 0.95,
+  "frame_id": 711,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994195.840207, "source_ts": 1760994179.833101, "detections": [], "counts": {}, "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank", "prediction_score": 0.9676, "frame_id": 1311, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994195.840207,
+  "source_ts": 1760994179.833101,
+  "detections": [],
+  "counts": {},
+  "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+  "prediction_score": 0.9676,
+  "frame_id": 1311,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994237.683981, "source_ts": 1760994199.833101, "detections": [{"bbox": [0.5633, 0.4278, 0.0289, 0.1194], "conf": 0.5894, "category": "1", "label": "animal", "species_label": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result", "species_score": 0.2559, "track_id": 1, "track_persistent_id": 1}], "counts": {"animal": 1}, "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal", "prediction_score": 0.5894, "frame_id": 1911, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994237.683981,
+  "source_ts": 1760994199.833101,
+  "detections": [
+    {
+      "bbox": [
+        0.5633,
+        0.4278,
+        0.0289,
+        0.1194
+      ],
+      "conf": 0.5894,
+      "category": "1",
+      "label": "animal",
+      "species_label": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result",
+      "species_score": 0.2559,
+      "track_id": 1,
+      "track_persistent_id": 1
+    }
+  ],
+  "counts": {
+    "animal": 1
+  },
+  "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+  "prediction_score": 0.5894,
+  "frame_id": 1911,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994259.4287202, "source_ts": 1760994241.833101, "detections": [], "counts": {}, "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank", "prediction_score": 0.9919, "frame_id": 3171, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994259.4287202,
+  "source_ts": 1760994241.833101,
+  "detections": [],
+  "counts": {},
+  "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+  "prediction_score": 0.9919,
+  "frame_id": 3171,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994281.237389, "source_ts": 1760994261.833101, "detections": [], "counts": {}, "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank", "prediction_score": 0.982, "frame_id": 3771, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994281.237389,
+  "source_ts": 1760994261.833101,
+  "detections": [],
+  "counts": {},
+  "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+  "prediction_score": 0.982,
+  "frame_id": 3771,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994301.762602, "source_ts": 1760994285.833101, "detections": [], "counts": {}, "prediction": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result", "prediction_score": 0.9728, "frame_id": 4491, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994301.762602,
+  "source_ts": 1760994285.833101,
+  "detections": [],
+  "counts": {},
+  "prediction": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result",
+  "prediction_score": 0.9728,
+  "frame_id": 4491,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994347.71554, "source_ts": 1760994303.833101, "detections": [{"bbox": [0.4008, 0.4306, 0.0523, 0.1778], "conf": 0.6024, "category": "1", "label": "animal", "species_label": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank", "species_score": 0.9846, "track_id": 1, "track_persistent_id": 2}], "counts": {"animal": 1}, "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal", "prediction_score": 0.6024, "frame_id": 5031, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994347.71554,
+  "source_ts": 1760994303.833101,
+  "detections": [
+    {
+      "bbox": [
+        0.4008,
+        0.4306,
+        0.0523,
+        0.1778
+      ],
+      "conf": 0.6024,
+      "category": "1",
+      "label": "animal",
+      "species_label": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "species_score": 0.9846,
+      "track_id": 1,
+      "track_persistent_id": 2
+    }
+  ],
+  "counts": {
+    "animal": 1
+  },
+  "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+  "prediction_score": 0.6024,
+  "frame_id": 5031,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994384.928694, "source_ts": 1760994351.833101, "detections": [{"bbox": [0.3734, 0.4375, 0.0867, 0.1694], "conf": 0.8593, "category": "1", "label": "animal", "species_label": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result", "species_score": 0.4299, "track_id": 1, "track_persistent_id": 3}], "counts": {"animal": 1}, "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal", "prediction_score": 0.8593, "frame_id": 6471, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994384.928694,
+  "source_ts": 1760994351.833101,
+  "detections": [
+    {
+      "bbox": [
+        0.3734,
+        0.4375,
+        0.0867,
+        0.1694
+      ],
+      "conf": 0.8593,
+      "category": "1",
+      "label": "animal",
+      "species_label": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result",
+      "species_score": 0.4299,
+      "track_id": 1,
+      "track_persistent_id": 3
+    }
+  ],
+  "counts": {
+    "animal": 1
+  },
+  "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+  "prediction_score": 0.8593,
+  "frame_id": 6471,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994420.610837, "source_ts": 1760994387.833101, "detections": [{"bbox": [0.3727, 0.3222, 0.1086, 0.2903], "conf": 0.8833, "category": "1", "label": "animal", "species_label": "5e34edec-101e-444d-92f5-b6e0d87a89b6;mammalia;cetartiodactyla;bovidae;capra;;capra species", "species_score": 0.809, "track_id": 1, "track_persistent_id": 4}], "counts": {"animal": 1}, "prediction": "5e34edec-101e-444d-92f5-b6e0d87a89b6;mammalia;cetartiodactyla;bovidae;capra;;capra species", "prediction_score": 0.6839, "frame_id": 7551, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994420.610837,
+  "source_ts": 1760994387.833101,
+  "detections": [
+    {
+      "bbox": [
+        0.3727,
+        0.3222,
+        0.1086,
+        0.2903
+      ],
+      "conf": 0.8833,
+      "category": "1",
+      "label": "animal",
+      "species_label": "5e34edec-101e-444d-92f5-b6e0d87a89b6;mammalia;cetartiodactyla;bovidae;capra;;capra species",
+      "species_score": 0.809,
+      "track_id": 1,
+      "track_persistent_id": 4
+    }
+  ],
+  "counts": {
+    "animal": 1
+  },
+  "prediction": "5e34edec-101e-444d-92f5-b6e0d87a89b6;mammalia;cetartiodactyla;bovidae;capra;;capra species",
+  "prediction_score": 0.6839,
+  "frame_id": 7551,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994457.894975, "source_ts": 1760994423.833101, "detections": [{"bbox": [0.4805, 0.3611, 0.1258, 0.2694], "conf": 0.9398, "category": "1", "label": "animal", "species_label": "f1d29627-02a1-4f7a-8c45-e6d9ab0d10d0;mammalia;cetartiodactyla;bovidae;oryx;;oryx species", "species_score": 0.7648, "track_id": 1, "track_persistent_id": 5}], "counts": {"animal": 1}, "prediction": "f1d29627-02a1-4f7a-8c45-e6d9ab0d10d0;mammalia;cetartiodactyla;bovidae;oryx;;oryx species", "prediction_score": 0.8802, "frame_id": 8631, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994457.894975,
+  "source_ts": 1760994423.833101,
+  "detections": [
+    {
+      "bbox": [
+        0.4805,
+        0.3611,
+        0.1258,
+        0.2694
+      ],
+      "conf": 0.9398,
+      "category": "1",
+      "label": "animal",
+      "species_label": "f1d29627-02a1-4f7a-8c45-e6d9ab0d10d0;mammalia;cetartiodactyla;bovidae;oryx;;oryx species",
+      "species_score": 0.7648,
+      "track_id": 1,
+      "track_persistent_id": 5
+    }
+  ],
+  "counts": {
+    "animal": 1
+  },
+  "prediction": "f1d29627-02a1-4f7a-8c45-e6d9ab0d10d0;mammalia;cetartiodactyla;bovidae;oryx;;oryx species",
+  "prediction_score": 0.8802,
+  "frame_id": 8631,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994500.324637, "source_ts": 1760994461.833101, "detections": [{"bbox": [0.3313, 0.3764, 0.0523, 0.1194], "conf": 0.7282, "category": "1", "label": "animal", "species_label": "8cf3fce2-0078-4347-9e46-5324fd12f8ed;mammalia;cetartiodactyla;bovidae;;;bovidae family", "species_score": 0.8583, "track_id": 1, "track_persistent_id": 6}], "counts": {"animal": 1}, "prediction": "8cf3fce2-0078-4347-9e46-5324fd12f8ed;mammalia;cetartiodactyla;bovidae;;;bovidae family", "prediction_score": 0.8256, "frame_id": 9771, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994500.324637,
+  "source_ts": 1760994461.833101,
+  "detections": [
+    {
+      "bbox": [
+        0.3313,
+        0.3764,
+        0.0523,
+        0.1194
+      ],
+      "conf": 0.7282,
+      "category": "1",
+      "label": "animal",
+      "species_label": "8cf3fce2-0078-4347-9e46-5324fd12f8ed;mammalia;cetartiodactyla;bovidae;;;bovidae family",
+      "species_score": 0.8583,
+      "track_id": 1,
+      "track_persistent_id": 6
+    }
+  ],
+  "counts": {
+    "animal": 1
+  },
+  "prediction": "8cf3fce2-0078-4347-9e46-5324fd12f8ed;mammalia;cetartiodactyla;bovidae;;;bovidae family",
+  "prediction_score": 0.8256,
+  "frame_id": 9771,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994559.578302, "source_ts": 1760994503.833101, "detections": [{"bbox": [0.3891, 0.5764, 0.0555, 0.0875], "conf": 0.912, "category": "1", "label": "animal", "species_label": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal", "species_score": 0.7162, "track_id": 1, "track_persistent_id": 7}, {"bbox": [0.3297, 0.3889, 0.0523, 0.1083], "conf": 0.7858, "category": "1", "label": "animal", "species_label": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank", "species_score": 0.8147, "track_id": 2, "track_persistent_id": 8}], "counts": {"animal": 2}, "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal", "prediction_score": 0.912, "frame_id": 11031, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994559.578302,
+  "source_ts": 1760994503.833101,
+  "detections": [
+    {
+      "bbox": [
+        0.3891,
+        0.5764,
+        0.0555,
+        0.0875
+      ],
+      "conf": 0.912,
+      "category": "1",
+      "label": "animal",
+      "species_label": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+      "species_score": 0.7162,
+      "track_id": 1,
+      "track_persistent_id": 7
+    },
+    {
+      "bbox": [
+        0.3297,
+        0.3889,
+        0.0523,
+        0.1083
+      ],
+      "conf": 0.7858,
+      "category": "1",
+      "label": "animal",
+      "species_label": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "species_score": 0.8147,
+      "track_id": 2,
+      "track_persistent_id": 8
+    }
+  ],
+  "counts": {
+    "animal": 2
+  },
+  "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+  "prediction_score": 0.912,
+  "frame_id": 11031,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994604.817846, "source_ts": 1760994563.833101, "detections": [{"bbox": [0.3805, 0.5764, 0.0773, 0.0861], "conf": 0.9157, "category": "1", "label": "animal", "species_label": "aaf3b049-36e6-46dd-9a07-8a580e9618b7;mammalia;carnivora;canidae;canis;latrans;coyote", "species_score": 0.7137, "track_id": 1, "track_persistent_id": 9}, {"bbox": [0.3297, 0.4083, 0.0492, 0.0875], "conf": 0.7983, "category": "1", "label": "animal", "species_label": "dfea7f7a-a241-4cc7-bd09-140baec73491;mammalia;cetartiodactyla;bovidae;bos;;bos species", "species_score": 0.6701, "track_id": 2, "track_persistent_id": 10}], "counts": {"animal": 2}, "prediction": "aaf3b049-36e6-46dd-9a07-8a580e9618b7;mammalia;carnivora;canidae;canis;latrans;coyote", "prediction_score": 0.8002, "frame_id": 12831, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994604.817846,
+  "source_ts": 1760994563.833101,
+  "detections": [
+    {
+      "bbox": [
+        0.3805,
+        0.5764,
+        0.0773,
+        0.0861
+      ],
+      "conf": 0.9157,
+      "category": "1",
+      "label": "animal",
+      "species_label": "aaf3b049-36e6-46dd-9a07-8a580e9618b7;mammalia;carnivora;canidae;canis;latrans;coyote",
+      "species_score": 0.7137,
+      "track_id": 1,
+      "track_persistent_id": 9
+    },
+    {
+      "bbox": [
+        0.3297,
+        0.4083,
+        0.0492,
+        0.0875
+      ],
+      "conf": 0.7983,
+      "category": "1",
+      "label": "animal",
+      "species_label": "dfea7f7a-a241-4cc7-bd09-140baec73491;mammalia;cetartiodactyla;bovidae;bos;;bos species",
+      "species_score": 0.6701,
+      "track_id": 2,
+      "track_persistent_id": 10
+    }
+  ],
+  "counts": {
+    "animal": 2
+  },
+  "prediction": "aaf3b049-36e6-46dd-9a07-8a580e9618b7;mammalia;carnivora;canidae;canis;latrans;coyote",
+  "prediction_score": 0.8002,
+  "frame_id": 12831,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994642.581963, "source_ts": 1760994607.833101, "detections": [{"bbox": [0.3312, 0.4, 0.0539, 0.0944], "conf": 0.6195, "category": "1", "label": "animal", "species_label": "8cf3fce2-0078-4347-9e46-5324fd12f8ed;mammalia;cetartiodactyla;bovidae;;;bovidae family", "species_score": 0.6825, "track_id": 1, "track_persistent_id": 11}], "counts": {"animal": 1}, "prediction": "8cf3fce2-0078-4347-9e46-5324fd12f8ed;mammalia;cetartiodactyla;bovidae;;;bovidae family", "prediction_score": 0.7828, "frame_id": 14151, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994642.581963,
+  "source_ts": 1760994607.833101,
+  "detections": [
+    {
+      "bbox": [
+        0.3312,
+        0.4,
+        0.0539,
+        0.0944
+      ],
+      "conf": 0.6195,
+      "category": "1",
+      "label": "animal",
+      "species_label": "8cf3fce2-0078-4347-9e46-5324fd12f8ed;mammalia;cetartiodactyla;bovidae;;;bovidae family",
+      "species_score": 0.6825,
+      "track_id": 1,
+      "track_persistent_id": 11
+    }
+  ],
+  "counts": {
+    "animal": 1
+  },
+  "prediction": "8cf3fce2-0078-4347-9e46-5324fd12f8ed;mammalia;cetartiodactyla;bovidae;;;bovidae family",
+  "prediction_score": 0.7828,
+  "frame_id": 14151,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994681.07694, "source_ts": 1760994645.833101, "detections": [{"bbox": [0.3266, 0.375, 0.0547, 0.1208], "conf": 0.7045, "category": "1", "label": "animal", "species_label": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank", "species_score": 0.5102, "track_id": 1, "track_persistent_id": 12}], "counts": {"animal": 1}, "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal", "prediction_score": 0.7045, "frame_id": 15291, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994681.07694,
+  "source_ts": 1760994645.833101,
+  "detections": [
+    {
+      "bbox": [
+        0.3266,
+        0.375,
+        0.0547,
+        0.1208
+      ],
+      "conf": 0.7045,
+      "category": "1",
+      "label": "animal",
+      "species_label": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "species_score": 0.5102,
+      "track_id": 1,
+      "track_persistent_id": 12
+    }
+  ],
+  "counts": {
+    "animal": 1
+  },
+  "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+  "prediction_score": 0.7045,
+  "frame_id": 15291,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994718.58401, "source_ts": 1760994683.833101, "detections": [{"bbox": [0.332, 0.3722, 0.0508, 0.1236], "conf": 0.8657, "category": "1", "label": "animal", "species_label": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank", "species_score": 0.763, "track_id": 1, "track_persistent_id": 13}], "counts": {"animal": 1}, "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal", "prediction_score": 0.8657, "frame_id": 16431, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994718.58401,
+  "source_ts": 1760994683.833101,
+  "detections": [
+    {
+      "bbox": [
+        0.332,
+        0.3722,
+        0.0508,
+        0.1236
+      ],
+      "conf": 0.8657,
+      "category": "1",
+      "label": "animal",
+      "species_label": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+      "species_score": 0.763,
+      "track_id": 1,
+      "track_persistent_id": 13
+    }
+  ],
+  "counts": {
+    "animal": 1
+  },
+  "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+  "prediction_score": 0.8657,
+  "frame_id": 16431,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994757.675263, "source_ts": 1760994721.833101, "detections": [{"bbox": [0.3344, 0.4097, 0.0445, 0.0847], "conf": 0.8786, "category": "1", "label": "animal", "species_label": "797b2c80-4b99-45ec-b73f-5fd62bbb93a8;mammalia;cetartiodactyla;;;;cetartiodactyla order", "species_score": 0.6921, "track_id": 1, "track_persistent_id": 14}], "counts": {"animal": 1}, "prediction": "aca65aaa-8c6d-4b69-94de-842b08b13bd6;mammalia;cetartiodactyla;bovidae;bos;taurus;domestic cattle", "prediction_score": 0.7591, "frame_id": 17571, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994757.675263,
+  "source_ts": 1760994721.833101,
+  "detections": [
+    {
+      "bbox": [
+        0.3344,
+        0.4097,
+        0.0445,
+        0.0847
+      ],
+      "conf": 0.8786,
+      "category": "1",
+      "label": "animal",
+      "species_label": "797b2c80-4b99-45ec-b73f-5fd62bbb93a8;mammalia;cetartiodactyla;;;;cetartiodactyla order",
+      "species_score": 0.6921,
+      "track_id": 1,
+      "track_persistent_id": 14
+    }
+  ],
+  "counts": {
+    "animal": 1
+  },
+  "prediction": "aca65aaa-8c6d-4b69-94de-842b08b13bd6;mammalia;cetartiodactyla;bovidae;bos;taurus;domestic cattle",
+  "prediction_score": 0.7591,
+  "frame_id": 17571,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994777.2151449, "source_ts": 1760994761.833101, "detections": [], "counts": {}, "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank", "prediction_score": 0.9993, "frame_id": 18771, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994777.2151449,
+  "source_ts": 1760994761.833101,
+  "detections": [],
+  "counts": {},
+  "prediction": "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+  "prediction_score": 0.9993,
+  "frame_id": 18771,
+  "inference_ran": true
+}
+
+{"video": "https://www.youtube.com/watch?v=ydYDqZQpim8", "processed_ts": 1760994815.239748, "source_ts": 1760994781.833101, "detections": [{"bbox": [0.3031, 0.3722, 0.0609, 0.1167], "conf": 0.8819, "category": "1", "label": "animal", "species_label": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result", "species_score": 0.4733, "track_id": 1, "track_persistent_id": 15}], "counts": {"animal": 1}, "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal", "prediction_score": 0.8819, "frame_id": 19371, "inference_ran": true}
+{
+  "video": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+  "processed_ts": 1760994815.239748,
+  "source_ts": 1760994781.833101,
+  "detections": [
+    {
+      "bbox": [
+        0.3031,
+        0.3722,
+        0.0609,
+        0.1167
+      ],
+      "conf": 0.8819,
+      "category": "1",
+      "label": "animal",
+      "species_label": "f2efdae9-efb8-48fb-8a91-eccf79ab4ffb;no cv result;no cv result;no cv result;no cv result;no cv result;no cv result",
+      "species_score": 0.4733,
+      "track_id": 1,
+      "track_persistent_id": 15
+    }
+  ],
+  "counts": {
+    "animal": 1
+  },
+  "prediction": "1f689929-883d-4dae-958c-3d57ab5b6c16;;;;;;animal",
+  "prediction_score": 0.8819,
+  "frame_id": 19371,
+  "inference_ran": true
+}
+

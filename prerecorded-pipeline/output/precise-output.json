@@ -1,0 +1,2284 @@
+{
+ "predictions": [
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000000.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel"
+    ],
+    "scores": [
+     0.9954,
+     0.0023,
+     0.0006,
+     0.0003,
+     0.0003
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9267,
+     "bbox": [
+      0.0,
+      0.3519,
+      0.1974,
+      0.4657
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9954,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000001.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel",
+     "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird"
+    ],
+    "scores": [
+     0.9974,
+     0.0013,
+     0.0003,
+     0.0001,
+     0.0001
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9521,
+     "bbox": [
+      0.0,
+      0.3417,
+      0.2479,
+      0.4648
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9974,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000002.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel",
+     "b57debc1-dff2-48d3-a400-f2b5021e71b0;mammalia;carnivora;procyonidae;procyon;lotor;northern raccoon"
+    ],
+    "scores": [
+     0.9961,
+     0.0012,
+     0.0011,
+     0.0003,
+     0.0002
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9558,
+     "bbox": [
+      0.0,
+      0.3583,
+      0.2896,
+      0.4491
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9961,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000003.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9953,
+     0.0014,
+     0.0012,
+     0.0004,
+     0.0002
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9445,
+     "bbox": [
+      0.0677,
+      0.3194,
+      0.2505,
+      0.4648
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9953,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000004.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel",
+     "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent"
+    ],
+    "scores": [
+     0.9931,
+     0.0024,
+     0.0016,
+     0.0008,
+     0.0003
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9622,
+     "bbox": [
+      0.1198,
+      0.3111,
+      0.2469,
+      0.4481
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9931,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000005.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel"
+    ],
+    "scores": [
+     0.9952,
+     0.0015,
+     0.0011,
+     0.0005,
+     0.0005
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9613,
+     "bbox": [
+      0.1703,
+      0.3083,
+      0.2156,
+      0.438
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9952,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000006.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel"
+    ],
+    "scores": [
+     0.9938,
+     0.0017,
+     0.0014,
+     0.0006,
+     0.0006
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9634,
+     "bbox": [
+      0.1807,
+      0.3213,
+      0.2286,
+      0.4231
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9938,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000007.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel"
+    ],
+    "scores": [
+     0.9917,
+     0.0026,
+     0.0021,
+     0.0007,
+     0.0007
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9504,
+     "bbox": [
+      0.2427,
+      0.3231,
+      0.1901,
+      0.4083
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9917,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000008.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel",
+     "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent"
+    ],
+    "scores": [
+     0.9861,
+     0.0047,
+     0.0033,
+     0.0015,
+     0.0006
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9371,
+     "bbox": [
+      0.2901,
+      0.3352,
+      0.1828,
+      0.3796
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9861,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000009.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel",
+     "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent"
+    ],
+    "scores": [
+     0.9895,
+     0.0027,
+     0.0025,
+     0.0011,
+     0.0007
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9554,
+     "bbox": [
+      0.325,
+      0.3343,
+      0.1635,
+      0.3759
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9895,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000010.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel"
+    ],
+    "scores": [
+     0.9852,
+     0.0043,
+     0.0023,
+     0.0018,
+     0.001
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9152,
+     "bbox": [
+      0.3312,
+      0.3259,
+      0.1734,
+      0.3556
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9852,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000011.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel"
+    ],
+    "scores": [
+     0.9878,
+     0.0029,
+     0.0028,
+     0.0019,
+     0.0009
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9483,
+     "bbox": [
+      0.3974,
+      0.338,
+      0.1375,
+      0.3222
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9878,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000012.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9845,
+     0.0048,
+     0.0033,
+     0.0015,
+     0.0012
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9465,
+     "bbox": [
+      0.4182,
+      0.3519,
+      0.15,
+      0.3056
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9845,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000013.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel",
+     "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent"
+    ],
+    "scores": [
+     0.987,
+     0.0057,
+     0.0014,
+     0.0012,
+     0.0011
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.955,
+     "bbox": [
+      0.4354,
+      0.337,
+      0.1427,
+      0.3
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.987,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000014.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.992,
+     0.0024,
+     0.0015,
+     0.0009,
+     0.0006
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9572,
+     "bbox": [
+      0.463,
+      0.3167,
+      0.1328,
+      0.3093
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.992,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000015.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9899,
+     0.0028,
+     0.0019,
+     0.0011,
+     0.0009
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9503,
+     "bbox": [
+      0.5005,
+      0.3204,
+      0.1302,
+      0.312
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9899,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000016.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel"
+    ],
+    "scores": [
+     0.9918,
+     0.0021,
+     0.0019,
+     0.0006,
+     0.0005
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8659,
+     "bbox": [
+      0.512,
+      0.3167,
+      0.1417,
+      0.2917
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9918,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000017.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "e07c537d-08b8-4c31-9768-51e4adf5a5ab;mammalia;rodentia;sciuridae;sciurus;niger;eastern fox squirrel"
+    ],
+    "scores": [
+     0.9781,
+     0.0061,
+     0.0044,
+     0.0032,
+     0.0014
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9459,
+     "bbox": [
+      0.5193,
+      0.3278,
+      0.151,
+      0.2815
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9781,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000018.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "b57debc1-dff2-48d3-a400-f2b5021e71b0;mammalia;carnivora;procyonidae;procyon;lotor;northern raccoon",
+     "87be3a5c-e60a-4e7e-88c7-21544914d067;mammalia;didelphimorphia;didelphidae;didelphis;virginiana;virginia opossum"
+    ],
+    "scores": [
+     0.9837,
+     0.0045,
+     0.0022,
+     0.0015,
+     0.0013
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.931,
+     "bbox": [
+      0.5604,
+      0.3481,
+      0.1328,
+      0.2389
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9837,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000019.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "87be3a5c-e60a-4e7e-88c7-21544914d067;mammalia;didelphimorphia;didelphidae;didelphis;virginiana;virginia opossum",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9932,
+     0.0017,
+     0.0013,
+     0.0004,
+     0.0004
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9412,
+     "bbox": [
+      0.5911,
+      0.363,
+      0.1323,
+      0.2278
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9932,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000020.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "87be3a5c-e60a-4e7e-88c7-21544914d067;mammalia;didelphimorphia;didelphidae;didelphis;virginiana;virginia opossum"
+    ],
+    "scores": [
+     0.9884,
+     0.0026,
+     0.002,
+     0.0012,
+     0.0009
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9518,
+     "bbox": [
+      0.6094,
+      0.3463,
+      0.1187,
+      0.2472
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9884,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000021.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "627c919c-29bc-439b-acde-62b3cd31f8a8;mammalia;cetartiodactyla;cervidae;;;cervidae family",
+     "b57debc1-dff2-48d3-a400-f2b5021e71b0;mammalia;carnivora;procyonidae;procyon;lotor;northern raccoon"
+    ],
+    "scores": [
+     0.9506,
+     0.0224,
+     0.0053,
+     0.0025,
+     0.0025
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8992,
+     "bbox": [
+      0.6214,
+      0.3333,
+      0.1089,
+      0.2528
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9506,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000022.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "b57debc1-dff2-48d3-a400-f2b5021e71b0;mammalia;carnivora;procyonidae;procyon;lotor;northern raccoon"
+    ],
+    "scores": [
+     0.9838,
+     0.0027,
+     0.0022,
+     0.0018,
+     0.0011
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9381,
+     "bbox": [
+      0.6589,
+      0.3519,
+      0.0802,
+      0.2426
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9838,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000023.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "b57debc1-dff2-48d3-a400-f2b5021e71b0;mammalia;carnivora;procyonidae;procyon;lotor;northern raccoon",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey"
+    ],
+    "scores": [
+     0.9845,
+     0.0043,
+     0.0014,
+     0.0014,
+     0.0011
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9263,
+     "bbox": [
+      0.6714,
+      0.3843,
+      0.076,
+      0.1898
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9845,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000024.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "b57debc1-dff2-48d3-a400-f2b5021e71b0;mammalia;carnivora;procyonidae;procyon;lotor;northern raccoon",
+     "87be3a5c-e60a-4e7e-88c7-21544914d067;mammalia;didelphimorphia;didelphidae;didelphis;virginiana;virginia opossum",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9902,
+     0.0023,
+     0.0012,
+     0.0009,
+     0.0009
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9429,
+     "bbox": [
+      0.6802,
+      0.3824,
+      0.0599,
+      0.1981
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9902,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000025.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "627c919c-29bc-439b-acde-62b3cd31f8a8;mammalia;cetartiodactyla;cervidae;;;cervidae family",
+     "b57debc1-dff2-48d3-a400-f2b5021e71b0;mammalia;carnivora;procyonidae;procyon;lotor;northern raccoon"
+    ],
+    "scores": [
+     0.9913,
+     0.0029,
+     0.0012,
+     0.0005,
+     0.0005
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.913,
+     "bbox": [
+      0.6792,
+      0.388,
+      0.0573,
+      0.1731
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9913,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000026.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "627c919c-29bc-439b-acde-62b3cd31f8a8;mammalia;cetartiodactyla;cervidae;;;cervidae family"
+    ],
+    "scores": [
+     0.9874,
+     0.004,
+     0.0025,
+     0.0009,
+     0.0007
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9277,
+     "bbox": [
+      0.6776,
+      0.388,
+      0.0646,
+      0.1843
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9874,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000027.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "87be3a5c-e60a-4e7e-88c7-21544914d067;mammalia;didelphimorphia;didelphidae;didelphis;virginiana;virginia opossum",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank"
+    ],
+    "scores": [
+     0.9852,
+     0.0037,
+     0.0015,
+     0.0012,
+     0.0011
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9326,
+     "bbox": [
+      0.6708,
+      0.3852,
+      0.0724,
+      0.1843
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9852,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000028.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "627c919c-29bc-439b-acde-62b3cd31f8a8;mammalia;cetartiodactyla;cervidae;;;cervidae family",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey"
+    ],
+    "scores": [
+     0.9888,
+     0.0025,
+     0.0016,
+     0.0009,
+     0.0009
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9455,
+     "bbox": [
+      0.6625,
+      0.3889,
+      0.0812,
+      0.1685
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9888,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000029.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "b57debc1-dff2-48d3-a400-f2b5021e71b0;mammalia;carnivora;procyonidae;procyon;lotor;northern raccoon",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank"
+    ],
+    "scores": [
+     0.9796,
+     0.0061,
+     0.0025,
+     0.0023,
+     0.0014
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9304,
+     "bbox": [
+      0.6484,
+      0.387,
+      0.0964,
+      0.1787
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9796,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000030.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent"
+    ],
+    "scores": [
+     0.9896,
+     0.0044,
+     0.001,
+     0.0006,
+     0.0004
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9357,
+     "bbox": [
+      0.6438,
+      0.3815,
+      0.1005,
+      0.1815
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9896,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000031.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "87be3a5c-e60a-4e7e-88c7-21544914d067;mammalia;didelphimorphia;didelphidae;didelphis;virginiana;virginia opossum"
+    ],
+    "scores": [
+     0.9897,
+     0.0028,
+     0.0017,
+     0.0007,
+     0.0007
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9401,
+     "bbox": [
+      0.6469,
+      0.3509,
+      0.0979,
+      0.2167
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9897,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000032.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "87be3a5c-e60a-4e7e-88c7-21544914d067;mammalia;didelphimorphia;didelphidae;didelphis;virginiana;virginia opossum"
+    ],
+    "scores": [
+     0.989,
+     0.0028,
+     0.0018,
+     0.0011,
+     0.0009
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9468,
+     "bbox": [
+      0.6734,
+      0.35,
+      0.0734,
+      0.2148
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.989,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000033.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "87be3a5c-e60a-4e7e-88c7-21544914d067;mammalia;didelphimorphia;didelphidae;didelphis;virginiana;virginia opossum",
+     "b57debc1-dff2-48d3-a400-f2b5021e71b0;mammalia;carnivora;procyonidae;procyon;lotor;northern raccoon"
+    ],
+    "scores": [
+     0.9889,
+     0.0022,
+     0.0013,
+     0.0013,
+     0.0013
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9044,
+     "bbox": [
+      0.6802,
+      0.3361,
+      0.0656,
+      0.2287
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9889,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000034.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "87be3a5c-e60a-4e7e-88c7-21544914d067;mammalia;didelphimorphia;didelphidae;didelphis;virginiana;virginia opossum",
+     "b57debc1-dff2-48d3-a400-f2b5021e71b0;mammalia;carnivora;procyonidae;procyon;lotor;northern raccoon"
+    ],
+    "scores": [
+     0.9872,
+     0.0028,
+     0.0024,
+     0.0011,
+     0.001
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8926,
+     "bbox": [
+      0.6828,
+      0.3343,
+      0.0625,
+      0.2352
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9872,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000035.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "87be3a5c-e60a-4e7e-88c7-21544914d067;mammalia;didelphimorphia;didelphidae;didelphis;virginiana;virginia opossum",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank"
+    ],
+    "scores": [
+     0.9817,
+     0.004,
+     0.003,
+     0.0016,
+     0.0015
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.8727,
+     "bbox": [
+      0.6901,
+      0.3352,
+      0.0615,
+      0.2315
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9817,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000036.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank"
+    ],
+    "scores": [
+     0.9865,
+     0.004,
+     0.0014,
+     0.0012,
+     0.0011
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9031,
+     "bbox": [
+      0.6964,
+      0.338,
+      0.062,
+      0.2324
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9865,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000037.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey"
+    ],
+    "scores": [
+     0.9811,
+     0.004,
+     0.0021,
+     0.0019,
+     0.0016
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9129,
+     "bbox": [
+      0.6984,
+      0.3454,
+      0.0682,
+      0.2324
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9811,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000038.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "b57debc1-dff2-48d3-a400-f2b5021e71b0;mammalia;carnivora;procyonidae;procyon;lotor;northern raccoon"
+    ],
+    "scores": [
+     0.9826,
+     0.0047,
+     0.0021,
+     0.002,
+     0.001
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9412,
+     "bbox": [
+      0.7,
+      0.3787,
+      0.0771,
+      0.1815
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9826,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000039.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey"
+    ],
+    "scores": [
+     0.979,
+     0.0053,
+     0.0036,
+     0.0019,
+     0.0018
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9083,
+     "bbox": [
+      0.7057,
+      0.3778,
+      0.0724,
+      0.1981
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.979,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000040.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey"
+    ],
+    "scores": [
+     0.9802,
+     0.0046,
+     0.0028,
+     0.002,
+     0.0016
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9143,
+     "bbox": [
+      0.7104,
+      0.3407,
+      0.0651,
+      0.2139
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9802,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000041.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey"
+    ],
+    "scores": [
+     0.9768,
+     0.0052,
+     0.0047,
+     0.0022,
+     0.0019
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9316,
+     "bbox": [
+      0.7083,
+      0.3361,
+      0.0656,
+      0.2231
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9768,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000042.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9771,
+     0.0053,
+     0.0051,
+     0.0028,
+     0.0017
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9314,
+     "bbox": [
+      0.7083,
+      0.338,
+      0.0651,
+      0.2231
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9771,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000043.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9754,
+     0.0062,
+     0.0051,
+     0.0027,
+     0.0016
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9362,
+     "bbox": [
+      0.7083,
+      0.338,
+      0.0667,
+      0.2204
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9754,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000044.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.976,
+     0.0065,
+     0.0043,
+     0.003,
+     0.0014
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9351,
+     "bbox": [
+      0.7073,
+      0.3389,
+      0.0672,
+      0.2194
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.976,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000045.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9796,
+     0.0055,
+     0.0033,
+     0.003,
+     0.0018
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9296,
+     "bbox": [
+      0.7073,
+      0.3398,
+      0.0677,
+      0.2194
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9796,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000046.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9773,
+     0.0063,
+     0.0049,
+     0.003,
+     0.0015
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9325,
+     "bbox": [
+      0.7073,
+      0.3389,
+      0.0672,
+      0.2213
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9773,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000047.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9775,
+     0.0061,
+     0.0042,
+     0.0024,
+     0.0019
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9308,
+     "bbox": [
+      0.7073,
+      0.3389,
+      0.0672,
+      0.2213
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9775,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000048.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9794,
+     0.0055,
+     0.0036,
+     0.0034,
+     0.0013
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9303,
+     "bbox": [
+      0.7068,
+      0.3389,
+      0.0672,
+      0.2222
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9794,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000049.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.977,
+     0.006,
+     0.0048,
+     0.003,
+     0.0013
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9313,
+     "bbox": [
+      0.7078,
+      0.3398,
+      0.0672,
+      0.2204
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.977,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000050.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9747,
+     0.0068,
+     0.0053,
+     0.0025,
+     0.0017
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9375,
+     "bbox": [
+      0.7083,
+      0.3389,
+      0.0672,
+      0.2222
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9747,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000051.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "90d950db-2106-4bd9-a4c1-777604c3eada;mammalia;rodentia;;;;rodent"
+    ],
+    "scores": [
+     0.9803,
+     0.0049,
+     0.0049,
+     0.0021,
+     0.0009
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9397,
+     "bbox": [
+      0.7083,
+      0.3389,
+      0.0677,
+      0.2213
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9803,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000052.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9816,
+     0.0055,
+     0.0026,
+     0.0026,
+     0.0009
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.935,
+     "bbox": [
+      0.7078,
+      0.3389,
+      0.0677,
+      0.2241
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9816,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000053.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9808,
+     0.0044,
+     0.0036,
+     0.0028,
+     0.0024
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.917,
+     "bbox": [
+      0.7083,
+      0.338,
+      0.0635,
+      0.225
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9808,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000054.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9837,
+     0.0038,
+     0.0031,
+     0.0028,
+     0.0009
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9242,
+     "bbox": [
+      0.7078,
+      0.3389,
+      0.0609,
+      0.2213
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9837,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000055.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.9715,
+     0.0079,
+     0.0044,
+     0.0036,
+     0.003
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9172,
+     "bbox": [
+      0.7083,
+      0.3389,
+      0.0568,
+      0.2231
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9715,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000056.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey"
+    ],
+    "scores": [
+     0.9767,
+     0.0071,
+     0.0035,
+     0.0026,
+     0.0026
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9202,
+     "bbox": [
+      0.7083,
+      0.3389,
+      0.0568,
+      0.2222
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9767,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000057.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey"
+    ],
+    "scores": [
+     0.9819,
+     0.0033,
+     0.0031,
+     0.0025,
+     0.0022
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9182,
+     "bbox": [
+      0.7083,
+      0.3389,
+      0.0557,
+      0.2204
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.9819,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000058.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank",
+     "94d8284e-6193-43b5-b80c-9029cf951675;aves;galliformes;phasianidae;meleagris;gallopavo;wild turkey",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer"
+    ],
+    "scores": [
+     0.985,
+     0.0036,
+     0.002,
+     0.0018,
+     0.0013
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9207,
+     "bbox": [
+      0.7078,
+      0.3389,
+      0.0609,
+      0.2204
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.985,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  },
+  {
+   "filepath": "/Users/brightonyoung/ML-Projects/Vision-ML/frames/PreciseTrail/ts_0000000059.jpg",
+   "country": "USA",
+   "admin1_region": "AL",
+   "classifications": {
+    "classes": [
+     "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+     "86f5b978-4f30-40cc-bd08-be9e3fba27a0;mammalia;rodentia;sciuridae;sciurus;carolinensis;eastern gray squirrel",
+     "febff896-db40-4ac8-bcfe-5bb99a600950;mammalia;cetartiodactyla;cervidae;odocoileus;hemionus;mule deer",
+     "b1352069-a39c-4a84-a949-60044271c0c1;aves;;;;;bird",
+     "f1856211-cfb7-4a5b-9158-c0f72fd09ee6;;;;;;blank"
+    ],
+    "scores": [
+     0.952,
+     0.014,
+     0.0105,
+     0.0048,
+     0.0036
+    ]
+   },
+   "detections": [
+    {
+     "category": "1",
+     "label": "animal",
+     "conf": 0.9237,
+     "bbox": [
+      0.899,
+      0.3852,
+      0.101,
+      0.2157
+     ]
+    }
+   ],
+   "prediction": "5c7ce479-8a45-40b3-ae21-7c97dfae22f5;mammalia;cetartiodactyla;cervidae;odocoileus;virginianus;white-tailed deer",
+   "prediction_score": 0.952,
+   "prediction_source": "classifier",
+   "model_version": "4.0.1a"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+# === Core Vision/ML stack ===
+numpy==1.26.4
+opencv-python==4.10.0.84          # GUI-enabled build (for cv2.imshow)
+speciesnet==5.0.2
+yolov5==7.0.11
+roboflow==1.2.11
+
+# === Utilities ===
+yt-dlp==2025.10.22                # for YouTube stream resolution
